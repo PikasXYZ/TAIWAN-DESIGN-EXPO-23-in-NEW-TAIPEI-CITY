@@ -1,6 +1,12 @@
 # TAIWAN-DESIGN-EXPO-23-in-NEW-TAIPEI-CITY
 The purpose of this repository is to explore the underlying methodology of a web-based psychological test called[《找找圈內人！》](https://event.designexpo.org.tw/) that was developed by the TAIWAN DESIGN EXPO '23, a design exhibition held in New Taipei City.
 
+<br>
+<p align="center">
+  <img src="pic/website_appearance.jpeg" width=500>
+</p>
+<br>
+
 ## Data Collection
 
 There are 12 questions in this web-based psychological test, and each question contains 2 options. All possible combinations were tested using Selenium. The results, 4096 in total (0 representing the first option and 1 representing the other option), are saved together in a file named 'DesignExpo2023.csv'.
@@ -23,7 +29,7 @@ Then, the frequency of each result varied and could be divided into two categori
 </p>
 <br>
 
-### :star: If this project is helpful to you, please help star this repo. Thanks! :hugs:
+:star:  If this project is helpful to you, please help star this repo. Thanks!  :hugs: 
 
 
 
