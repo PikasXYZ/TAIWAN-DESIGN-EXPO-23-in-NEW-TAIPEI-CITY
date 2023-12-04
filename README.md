@@ -111,6 +111,10 @@ From the image above, it can be almost conclusively deduced that the underlying 
 </p>
 <br>
 
+## Postscript
+
+Cuz the URL of this web-based psychological test is no longer valid, you can try [this Google Form](https://forms.gle/zGVjuFpReFkmLi6j8) (Chinese ver. only) instead if you really wanna know your social types. The result will be sent to your email from mine (pikasxyz@gmail.com). If not, plz send a mail to me for notification.
+
 ### ⭐ If this project is helpful to you, please help star this repo. Thanks!  :hugs: 
 
 
