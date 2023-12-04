@@ -11,6 +11,12 @@ The purpose of this repository is to explore the underlying methodology of a web
 
 There are 12 questions in this web-based psychological test, and each question contains 2 options. All possible combinations were tested using Selenium. The results, 4096 in total (0 representing the first option and 1 representing the other option), are saved together in a file named 'DesignExpo2023.csv'.
 
+<br>
+<p align="center">
+  <img src="pic/Q1.png" width=500>
+</p>
+<br>
+
 ## Data Analysis
 
 Firstly, the Spearman correlation analysis revealed that not every question showed a positive correlation with the result. Surprisingly, Question 12 exhibited no correlation with the result, which was an unexpected finding.
@@ -29,7 +35,7 @@ Then, the frequency of each result varied and could be divided into two categori
 </p>
 <br>
 
-:star:  If this project is helpful to you, please help star this repo. Thanks!  :hugs: 
+### ⭐ If this project is helpful to you, please help star this repo. Thanks!  :hugs: 
 
 
 
