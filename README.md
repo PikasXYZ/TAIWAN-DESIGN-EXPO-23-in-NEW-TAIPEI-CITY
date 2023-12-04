@@ -35,6 +35,17 @@ Then, the frequency of each result varied and could be divided into two categori
 </p>
 <br>
 
+The higher group contains Q7, Q16, Q3, Q13, Q8, Q11, Q14, Q4, while the lower group contains  Q6, Q9, Q12, Q10, Q1, Q15, Q2, Q5.
+For the further research, the distribution of answers for each question was ploted, which is grouped by the result.
+
+<br>
+<p align="center">
+  <img src="pic/selection2result.png" width=500>
+</p>
+<br>
+
+The plot above reveals that 
+
 ### ⭐ If this project is helpful to you, please help star this repo. Thanks!  :hugs: 
 
 
