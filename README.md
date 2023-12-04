@@ -101,6 +101,8 @@ As above mentioned, the correlations of ideal results appeared akin to a **four-
 </p>
 <br>
 
+## Conclusion
+
 From the image above, it can be almost conclusively deduced that the underlying logic of this web-based psychological test aligns with the "MBTI hypothesis", which was grouped as `[Q8, Q9, Q10]`, `[Q1, Q7, Q12]`, `[Q2, Q6, Q11]` and `[Q3, Q4, Q5]`. The picture below is the amount of each kind of result after making all negative correlations postive in the correlations of not ideal results by swaping the two options of them and voting result according to the groups inferenced, which further reinforces the correctness of the aforementioned inference.
 
 <br>
