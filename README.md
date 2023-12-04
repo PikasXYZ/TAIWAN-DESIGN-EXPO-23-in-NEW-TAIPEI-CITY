@@ -41,7 +41,7 @@ For the further research, the distribution of answers for each question was plot
 
 <br>
 <p align="center">
-  <img src="pic/selection2result.png" height=500>
+  <img src="pic/selection2result.png" height=400>
 </p>
 <br>
 
@@ -51,7 +51,7 @@ For expanded understanding, the analysis was conducted once again, this time foc
 
 <br>
 <p align="center">
-  <img src="pic/selection2result_H.png" height=500>
+  <img src="pic/selection2result_H.png" height=400>
 </p>
 <br>
 
@@ -59,7 +59,7 @@ The outcome of the higher group also revealed that the choices pertaining to Q12
 
 <br>
 <p align="center">
-  <img src="pic/selection2result_L.png" height=500>
+  <img src="pic/selection2result_L.png" height=400>
 </p>
 <br>
 
