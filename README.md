@@ -36,15 +36,34 @@ Then, the frequency of each result varied and could be divided into two categori
 <br>
 
 The higher group contains Q7, Q16, Q3, Q13, Q8, Q11, Q14, Q4, while the lower group contains  Q6, Q9, Q12, Q10, Q1, Q15, Q2, Q5.
-For the further research, the distribution of answers for each question was ploted, which is grouped by the result.
+
+For the further research, the distribution of answers for each question was ploted, which was grouped by the result and normalized for the difference of those two group.
 
 <br>
 <p align="center">
-  <img src="pic/selection2result.png" width=500>
+  <img src="pic/selection2result.png" height=500>
 </p>
 <br>
 
-The plot above reveals that 
+The preceding visualization confirmed that the choices pertaining to Q12 didn't bear any significant influence on the outcomes. For most questions, choosing one option would have three times the probability of leading to a certain result than another option. However, choices in Q1 and Q7 didn't lead to certain half of the potential results.
+
+For expanded understanding, the analysis was conducted once again, this time focusing on the higher group and the lower group separately.
+
+<br>
+<p align="center">
+  <img src="pic/selection2result_H.png" height=500>
+</p>
+<br>
+
+The outcome of the higher group also revealed that the choices pertaining to Q12 didn't bear any significant influence on the results, while choosing one option would have three times the probability of leading to a certain result than another option for most question. But choosing one option would have only two times the probability of leading to a certain result than another option for Q1 & Q7.
+
+<br>
+<p align="center">
+  <img src="pic/selection2result_L.png" height=500>
+</p>
+<br>
+
+The outcome of the lower group also revealed that the choices pertaining to Q12 didn't bear any significant influence on the results, while choosing one option would have three times the probability of leading to a certain result than another option for most question. But certain option didn't lead to any result in the lower group for Q1 & Q7.
 
 ### ⭐ If this project is helpful to you, please help star this repo. Thanks!  :hugs: 
 
